@@ -2,3 +2,6 @@
 tutorial
 This was my first project using the GitHUB tutorial.
 The first edit of this readme was done by using a branch from the master called readme-edits.
+
+Adding coordinates:
+41.650196, -87.624462
